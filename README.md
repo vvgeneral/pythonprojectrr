@@ -3,12 +3,8 @@
 
 Aset Saylyavkhan
 Github: vvgeneral
-Edx: asaylx
-North Carolina, United States
+United States
 2024/06/11
-
-[Video Demo](https://youtu.be/YA3DAI8tYW4)
-
 
 ## Description:
 
